@@ -8,7 +8,7 @@
     "react-bodymovin": "^2.0.0",
     "react-dom": "^16.10.2",
     "react-lottie": "^1.2.3",
-    "react-scripts": "3.2.0",
+    "react-scripts": "5.0.1",
     "uikit": "^3.2.3"
   },
   "scripts": {
